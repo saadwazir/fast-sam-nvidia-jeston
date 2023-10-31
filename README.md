@@ -3,7 +3,7 @@
 Step 1: setup jetson (refer to this guide)
 
 
-step 2:
+step 2: clone this repo and install requirements 
 ```
 pip install -r requirements.txt
 ```
