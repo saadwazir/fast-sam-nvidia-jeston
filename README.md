@@ -21,7 +21,6 @@ convert to TensorRT. Create a new Python script and enter the following code:
 ```
 from ultralytics import YOLO
 
-
 model = YOLO('FastSAM-s.pt')  # load a custom trained
 # TensorRT FP32 export
 # model.export(format='engine', device='0', imgsz=640)
