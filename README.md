@@ -40,3 +40,6 @@ python3 Inference_video.py --model_path FastSAM-s.engine --img_path /dev/video2 
 
 
 <br>----------------------------------------------------------------<br>
+This repo contains code and instructions from these repo's <br>
+https://github.com/yuyoujiang/FastSAM-with-video-on-NVIDIA-Jetson <br>
+https://github.com/CASIA-IVA-Lab/FastSAM <br>
