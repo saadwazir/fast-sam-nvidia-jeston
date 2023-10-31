@@ -38,3 +38,5 @@ python3 Inference_video.py --model_path FastSAM-s.engine --img_path /dev/video2 
 ```
 "/dev/video2" is the path of webcam in Linux.
 
+
+### ----------------------------------------------------------------
