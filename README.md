@@ -1,6 +1,6 @@
 # fast-sam-nvidia-jeston
 
-Step 1: setup jetson (refer to this guide)
+Step 1: setup jetson ( refer to this guide: https://github.com/saadwazir/nvidia-jetson_deepstream_yolo_pytorch_and_torchvision_setup_guide/ )
 
 
 step 2: clone this repo and install requirements 
